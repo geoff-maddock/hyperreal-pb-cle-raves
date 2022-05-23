@@ -1,0 +1,371 @@
+From iamdjtwo@yahoo.com  Sun, 16 Jun 2013 12:51:27 -0700 (PDT)
+Return-Path: <iamdjtwo@yahoo.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 16709 invoked from network); 16 Jun 2013 19:51:29 -0000
+Received: from nm22-vm1.bullet.mail.bf1.yahoo.com (98.139.212.127)
+  by taz3.hyperreal.org with SMTP; 16 Jun 2013 19:51:29 -0000
+Received: from [98.139.212.153] by nm22.bullet.mail.bf1.yahoo.com with NNFMP; 16 Jun 2013 19:51:28 -0000
+Received: from [98.139.212.250] by tm10.bullet.mail.bf1.yahoo.com with NNFMP; 16 Jun 2013 19:51:28 -0000
+Received: from [127.0.0.1] by omp1059.mail.bf1.yahoo.com with NNFMP; 16 Jun 2013 19:51:28 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 440860.58954.bm@omp1059.mail.bf1.yahoo.com
+Received: (qmail 33022 invoked by uid 60001); 16 Jun 2013 19:51:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1371412288; bh=0EfT6CDldyUSLxotlkOP0TjoN+zZHnYDxhEBQce80h8=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=WJRbYYjhhnAhEOyM9bk5q6qJOueQVL43mYt3vjffd4G0WrTHsPONX/Mua9P8hnDhQU7XoFDwLPWMh1+hHGqUZk341vS7chpTEtKzbV7Eu1MXjASxrm77ydpAOppeHaT5Z7iCPOZIVm4wZEqlXRFUIJXzdwpISxtnBvEf2iUaapg=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=Y5uOUE1475Sphkb7F8LoNEw1LgGdBxtXVrYEFk00JQ26a2R8tMbsHyJNwEFMILty+JnE/aHxbDwpAAO47kJeJNziiN8o51gdZpcpptSl1BwuX7ZK1THa4/7GBt6I6kKfpAMQbHJmXR2yQ/Q7+ILnvO+8UI6Dt3qlOlpVitVJ+fs=;
+X-YMail-OSG: C.BT.iwVM1nv9duGpfgdiVxt2.6o7TGUV9cufFyWCJsuCML
+ BrV5BFzblkXBON5byVec7kRfE3KwUCSyXW9HAuBgH1oPxd2HHb0FYnPV6lEe
+ lQYhHHNs3Jj6UV38UG3.ZySHupO4DyER.wHc6FJ10MJCGUZdbLEX_fW54Evx
+ U688edSKz1YRPi12XWa_VeBJTB6NmtMsHXI1Ht.yc2125QZ_65stv0KI3CwU
+ YnXHRHHWaRa4Qq_EDTpT3DhRXkDENj1bRPL.7Co8JhsbMuIHWPz13M7G6E7f
+ ELcJRKUfQGjYQ0MRy8FyolGeARTRmtq2LpIrV6loCIuxgyNTsI_ZFx.dWKPD
+ 4IFEXZx9AyEHsRkQNASSFFw7dO7FtwKI9BXeiqxYOSVLL2LYlko8WzrU9UJQ
+ Dj2TUraHvXt1WZyAXU9vK0fR3DIUKkIGMexODq39tw2Ut6n3CUdeXnfFfMig
+ vIB2hLF7Z6.EWGFbcq7CsyU.y3ndAOFd7LFLwIyawfU15j_CYhTSlB8Z.sxD
+ L5UtcEvKZPSynzf7XqDCM7N0Qzo_fsyKx8q.6HKXn9ue7aOZUHhGBVnctpsz
+ 3wHU_VVEh0O1J.aIfLhr0sckqAq.4zDYHn_zdQQ8kPOTqHOvOMtoAZx.XjCm
+ IQUG1CbjJ6g--
+Received: from [139.195.212.104] by web140301.mail.bf1.yahoo.com via HTTP; Sun, 16 Jun 2013 12:51:27 PDT
+X-Rocket-MIMEInfo: 002.001,d2VyICAgIApodHRwOi8vYXRha3NlcnZpY29zLmNvbS5ici9uY3UvZ3VuaHZuYnd4ci96ZWFpcnpxdGFkeWt5c2Iva2Nkb3J6a2Rtd3VqeS5waHAgICAgVHdvCgEwAQEBAQ--
+X-Mailer: YahooMailWebService/0.8.146.552
+Message-ID: <1371412287.55581.YahooMailNeo@web140301.mail.bf1.yahoo.com>
+Date: Sun, 16 Jun 2013 12:51:27 -0700 (PDT)
+From: Two <iamdjtwo@yahoo.com>
+Reply-To: Two <iamdjtwo@yahoo.com>
+To: carmen5967 <carmen5967@hotmail.com>, mckayla798 <mckayla798@hotmail.com>,
+  cora4036 <cora4036@hotmail.com>, kathy4341 <kathy4341@hotmail.com>,
+  tvt3169 <tvt3169@yahoo.com>, altrdvison <altrdvison@aol.com>,
+  tsk4billy <tsk4billy@gmail.com>, kaylie2823 <kaylie2823@hotmail.com>,
+  zoe7033 <zoe7033@hotmail.com>, nick23 <nick23@att.net>,
+  juggalettetahtah <juggalettetahtah@gmail.com>,
+  msmickeymichelle <msmickeymichelle@yahoo.com>,
+  melissachurch79 <melissachurch79@yahoo.com>, 4minus2 <4minus2@gmail.com>,
+  boardqueen <boardqueen@hotmail.com>,
+  timmothyshay <timmothyshay@hotmail.com>, sagemasta <sagemasta@gmail.con>,
+  Zonebbm <Zonebbm@gmail.com>, shawnsmith431 <shawnsmith431@gmail.com>,
+  jessika roberts 84 <jessika.roberts.84@gmail.com>,
+  adol ivxx <adol_ivxx@roadrunner.com>, ian <ian@innoviii.com>,
+  brookecowgill <brookecowgill@live.com>,
+  jst4fun19800 <jst4fun19800@yahoo.com>,
+  just4fun19800 <just4fun19800@yahoo.com>,
+  marijanam420 <marijanam420@yahoo.com>, dimondo <dimondo@att.net>,
+  twosdad <twosdad@gmail.com>, djdiddle <djdiddle@gmail.com>,
+  3302832833 <3302832833@mms.att.net>,
+  i still rape gothic boys <i_still_rape_gothic_boys@yahoo.com>,
+  nuttyfrannie88 <nuttyfrannie88@tmail.com>, 3minus1 <3minus1@gmail.com>,
+  drcase217 <drcase217@yahoo.com>, gqeq dnb <gqeq.dnb@gmail.com>,
+  madeindetroit <madeindetroit@yahoo.com>, g dubinvr6 <g_dubinvr6@yahoo.com>,
+  bethrenaud05 <bethrenaud05@gmail.com>,
+  Signal Knight <Signal_Knight@hotmail.com>,
+  shirleytallon <shirleytallon@hotmail.com>, kuivila <kuivila@sbcglobal.net>,
+  sagemasta <sagemasta@gmail.com>, sagemaster <sagemaster@yahoo.com>,
+  sagemasta <sagemasta@yahoo.com>, buttermyself <buttermyself@osl8.com>,
+  masbusiness <masbusiness@gmail.com>, amberblack21 <amberblack21@yahoo.com>,
+  3305818312 <3305818312@mms.att.net>, cweikart <cweikart@aol.com>,
+  death <death@andythepooh.com>, trout <trout@pornstarstyle.com>,
+  j2 <j2@untranslatable.com>, kristinenicolee <kristinenicolee@hotmail.com>,
+  ShlMcNb <ShlMcNb@aol.com>, cass <secondtonone87@hotmail.com>,
+  a streets <a.streets@sbcglobal.net>, alyssa <alyssajae0404@yahoo.com>,
+  lorin ashton <lorin@bassnectar.net>, beehappie <beehappie@prodigy.net>,
+  ben <ben.conley@verizon.net>, ben <sasha_33@hotmail.com>,
+  Sarah Bergdorf <shortyspectacular@hotmail.com>,
+  Chrissy <light.chrissy@yahoo.com>, corey <misspshush@yahoo.com>,
+  jason cruit <djglayze@aol.com>, Schweizer Damion <pdragon65@yahoo.com>,
+  dan <mrtskdna@earthlink.net>, Dominic Dimondo <elvinmachinery@msn.com>,
+  Dom <elvinmachinery@zoominternet.net>, Donnie <hansel@sssnet.com>,
+  doug <doug@poo-bas.com>, skillz speed garage <skillzspeedgarage@yahoo.com>,
+  jens <jens@netaphex.com>, jessica <sicasinkin@yahoo.com>,
+  justin <justinchalfant@getcingular.com>, kb <kenbradbury@earthlink.net>,
+  kellyn2000 <kellyn2000@aol.com>, Kristy <funkiki420@comcast.net>,
+  mary ellen <ghettospaghetti@yahoo.com>, mel <mjfresch6269@yahoo.com>,
+  mike <diddle@beer.com>, james morgan <buttermyself@yahoo.com>,
+  nuskoolswingers <nuskoolswingers@yahoo.com>,
+  pat <elixirelixier@hotmail.com>, pb cle raves <pb-cle-raves@hyperreal.org>,
+  phil <waxfader@aol.com>, rob <jhost554@earthlink.net>,
+  ron <lake3000@aol.com>, Justin stiner <racin91rex@yahoo.com>,
+  tami <freakystyleprod@hotmail.com>, ted <liquidted@comcast.net>,
+  Kristine temptress <temptressk@hotmail.com>,
+  CRAIG THOMPSON <tommy.69@btinternet.com>,
+  Matthew Urbach <matt_urbach@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1950762199-679646992-1371412287=:55581"
+Subject: Two
+
+--1950762199-679646992-1371412287=:55581
+Content-Type: text/plain; charset=us-ascii
+
+wer    
+http://atakservicos.com.br/ncu/gunhvnbwxr/zeairzqtadykysb/kcdorzkdmwujy.php    Two
+
+--1950762199-679646992-1371412287=:55581
+Content-Type: text/html; charset=us-ascii
+
+<html><body><div style="color:#000; background-color:#fff; font-family:times new roman, new york, times, serif;font-size:12pt"><div><span style="font-family: verdana,helvetica,sans-serif;"><span>wer</span></span><span class="tab">&nbsp;&nbsp;&nbsp; </span><br><a href="http://atakservicos.com.br/ncu/gunhvnbwxr/zeairzqtadykysb/kcdorzkdmwujy.php">http://atakservicos.com.br/ncu/gunhvnbwxr/zeairzqtadykysb/kcdorzkdmwujy.php</a><span class="tab">&nbsp;&nbsp;&nbsp; Two<br></span></div></div></body></html>
+--1950762199-679646992-1371412287=:55581--
+
+From ganjaprophet@yahoo.com  Sun, 16 Jun 2013 18:38:35 -0700 (PDT)
+Return-Path: <ganjaprophet@yahoo.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 11301 invoked from network); 17 Jun 2013 01:38:36 -0000
+Received: from nm11-vm6.bullet.mail.ne1.yahoo.com (98.138.91.104)
+  by taz3.hyperreal.org with SMTP; 17 Jun 2013 01:38:36 -0000
+Received: from [98.138.226.180] by nm11.bullet.mail.ne1.yahoo.com with NNFMP; 17 Jun 2013 01:38:35 -0000
+Received: from [98.138.226.169] by tm15.bullet.mail.ne1.yahoo.com with NNFMP; 17 Jun 2013 01:38:35 -0000
+Received: from [127.0.0.1] by omp1070.mail.ne1.yahoo.com with NNFMP; 17 Jun 2013 01:38:35 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 619506.35771.bm@omp1070.mail.ne1.yahoo.com
+Received: (qmail 69313 invoked by uid 60001); 17 Jun 2013 01:38:35 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1371433115; bh=vqn5mFrA8N+vtli99ViMNP9GUvboiDavo484OZMj1xU=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=6iUxMUaVNWTEadfqPECAulvz8Npy2D/fFyopIjkyD7G8LtmKgPk7GuWHE95lekBybkASO26VyHu/p8tzkR479gqSP5DpCnHzS6mqIA/cmSmo9ATkaM76vqkBbu08m6UrR6l9UjsWIaCcOcEix5mG3bwyvMkM1OSpqIhbGEswO6w=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=JoV9/szdh5jjR2SygP8AVA3DnsMxoLoEvFu/eQUb/t0ms+HRhL5xjIuexDYlRuJIX88lHoA70lPQuEjzXbIPaIXMn855B5gcYAcVvYhfkMYBoKd6QUFTc8qKV1IU7Xrp5GXOmyAtTA3eQHIORK4i/e4STN3kxKJd6jzUQMVPMdc=;
+X-YMail-OSG: scWqdY8VM1m31JrkT7UxgFlG8ml29RCOlMq81vMOEgjJ0zr
+ 5ooaMyclntjCivdSIQodCbF34JNmgvz0BxR3.Mw4GUXKo1hPro5TdGfn4dmz
+ z5PnSJ4IQJM6UNNQ562TnaiTAxg1Rm3s_tVQI_xTAVumU.CYelHN07wU.FWY
+ xC7U0YZC8Y4IT0laUYCoHgMYgiZj9yeZnurGDSeUrUiDoY6nw8rr.KluCrax
+ fbQd9FsVlPRLVSzIMeO5D394oVJhHVpODF3QaPWZRAxu0oMHWqIqHcPVYkXY
+ Nzuh8Px7EsRdXWGF2rKeKjPXQI7EwqdkxIL1EinaepaACs7qpBp_wWVKu5iq
+ Wrl.mOB4M9A_gByTRboosvhYrKnmy56TEZXLWKMEWZUIOZqNSjCRCIgkNqkS
+ RP5VHFUSX.5fPlNka.Mg9iu4DIKq4pL8ScN8W1Xl_VQLh6BxAawoHWtcMWPc
+ vMNmE1pup3BflaQ_.jFFLZ3tWtVMF3AWlYcm93KZ8l8lyU081b9s0Q1nvv8C
+ 1IB6W8u0SPtzdnzffs_D7PRY_5TzQdrLpV3KBoYcPDmz1m0.48r.BBdEIzuO
+ ihHxyFoxXKH_t4Enohk1gUAz0UtAMP86J_VGBpsqtVRw6IoLpAprNF1P1pCY
+ EKkENQGXo0BZkc4.ESxfqoYD_9H1MSIswWT0sHUkCmmtZUw--
+Received: from [190.142.191.81] by web122904.mail.ne1.yahoo.com via HTTP; Sun, 16 Jun 2013 18:38:35 PDT
+X-Rocket-MIMEInfo: 002.001,dmdjZSBodHRwOi8vd3d3Lmh5YnJhbnQubmV0L2pxenRhbi9STkRDSFIsMywxNSUvUk5EQ0hSLDMsMTUlL3lkZ2duZW9zZG95YnMvbXp1L2J1eGUuaHRtCgoKCgp6aHMgATABAQEB
+X-Mailer: YahooMailWebService/0.8.146.552
+Message-ID: <1371433115.69206.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+Date: Sun, 16 Jun 2013 18:38:35 -0700 (PDT)
+From: dick wadd <ganjaprophet@yahoo.com>
+Reply-To: dick wadd <ganjaprophet@yahoo.com>
+To: rob <rob@steel-city.org>, livinlife888 <livinlife888@hotmail.com>,
+  j k w 12345 <j_k_w_12345@yahoo.com>,
+  pb cle raves <pb-cle-raves@hyperreal.org>,
+  jeremy callisto <jeremy_callisto@yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1919040978-239091827-1371433115=:69206"
+Subject: FW: dick wadd
+
+--1919040978-239091827-1371433115=:69206
+Content-Type: text/plain; charset=us-ascii
+
+vgce http://www.hybrant.net/jqztan/RNDCHR,3,15%/RNDCHR,3,15%/ydggneosdoybs/mzu/buxe.htm
+
+
+
+
+zhs 
+--1919040978-239091827-1371433115=:69206
+Content-Type: text/html; charset=us-ascii
+
+<html><body><div style="color:#000; background-color:#fff; font-family:Courier New, courier, monaco, monospace, sans-serif;font-size:12pt">vgce <a href="http://www.hybrant.net/jqztan/RNDCHR,3,15%/RNDCHR,3,15%/ydggneosdoybs/mzu/buxe.htm">http://www.hybrant.net/jqztan/RNDCHR,3,15%/RNDCHR,3,15%/ydggneosdoybs/mzu/buxe.htm</a><div><br><br><br><br><br><span style="text-decoration: underline;">zhs</span> <span></span></div></div></body></html>
+--1919040978-239091827-1371433115=:69206--
+
+From jazz_e@pacbell.net  Sun, 16 Jun 2013 21:04:30 -0700
+Return-Path: <jazz_e@pacbell.net>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 75344 invoked from network); 17 Jun 2013 04:04:53 -0000
+Received: from nm12.access.bullet.mail.mud.yahoo.com (66.94.237.213)
+  by taz3.hyperreal.org with SMTP; 17 Jun 2013 04:04:53 -0000
+Received: from [66.94.237.197] by nm12.access.bullet.mail.mud.yahoo.com with NNFMP; 17 Jun 2013 04:04:52 -0000
+Received: from [98.138.226.240] by tm8.access.bullet.mail.mud.yahoo.com with NNFMP; 17 Jun 2013 04:04:52 -0000
+Received: from [127.0.0.1] by smtp111.sbc.mail.ne1.yahoo.com with NNFMP; 17 Jun 2013 04:04:52 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pacbell.net; s=s1024; t=1371441892; bh=15f6jap0BcArOh2ri1RmnYxDjdkxI9ucsdNMuOKcg9Q=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Content-Type:Mime-Version:Subject:From:In-Reply-To:Date:Content-Transfer-Encoding:Message-Id:References:To:X-Mailer; b=jAfi6gKjOaWMht6Qd3r+kuA2+ko8CXxOn04UA2xkV/IDpkBhWvdp7kum0nEtI2ExzCfkqmIfQUVFk09gM5mlL09v3rBMoViCYXfJcSELT+EydmhFtjwDyY23ft9UZsKpQ0zRowS+1I9xSKAvedR2AIJKqSUqbER0zhjk9Iqj6gk=
+X-Yahoo-Newman-Id: 72261.84188.bm@smtp111.sbc.mail.ne1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 08.YCBgVM1lbDlTaFCSbnu3ppdNbsijLjKmJQbLipXEiotM
+ p7IwwbBzBHZmV1LC9OndowTTSdKgqzQeBkrJrt2uEnMErjbe0jsGQiFnD0px
+ aukr5ghBr3hy4NkncrsKWrb0hxSBcPiVP2RTKOy1DhjDuS9x1dN2OInlikLH
+ mdqhs3iqdE39lzalPTpsUarIM.9oS0ln3Yr2X2gSGLkF46TOaWXFnZwJ_u1A
+ RE7U3qhW568dgJW2NpcKsS36vIxz8I3.y4xd7AG5WV7PPmXLd_48jldoODwj
+ FsPdHKUedXd83k3zM.zimUMuyLHYIFfc.hJPje5xT_rETqWPO8K9SSG8UKMl
+ UCNFZxxjdv1ZLTjH9NlmBo02DTNRWabL7o9MMGrAbqQQkZMM_auxD9F9fuzi
+ SaFicZhfBaZIq7PohfieGCFCsLc5ReuB_AwLo6amsraPQovheCqL_3nJqWLe
+ T.y.nVmv01_YrZnWPPKbmR0f_u0.3RUzPsRRw65mqpntbrl2JqnMDKYp7wUy
+ rDyp_ctpm7MYN8KLjnd_va81srhn.jb_rV1r6pZOaSQAO2329_JUvngLDVIT
+ l4nTlAzN_.DXae7PPBM1PPTztuB6rm5WiKK17cIVK8KFMiPuOW8XxMmrR8eC
+ PCISdXqE-
+X-Yahoo-SMTP: e09DYJmswBDeMALTKYaazeCnic5Z9I.kNj6dlO54_w--
+X-Rocket-Received: from [192.168.1.8] (jazz_e@76.102.90.103 with plain)
+        by smtp111.sbc.mail.ne1.yahoo.com with SMTP; 16 Jun 2013 21:04:52 -0700 PDT
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0 (Apple Message framework v1283)
+From: Dj Jazz-e <jazz_e@pacbell.net>
+In-Reply-To: <1371433115.69206.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+Date: Sun, 16 Jun 2013 21:04:30 -0700
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <D2DF7917-39F7-4FF1-B5CF-09DE5EC16FE3@pacbell.net>
+References: <1371433115.69206.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+To: pb cle raves <pb-cle-raves@hyperreal.org>
+X-Mailer: Apple Mail (2.1283)
+Subject: {pb-cle} BSP: Funky House Mix (Dj Jazz-e)
+
+Uploaded a mix and would appreciate if you could take a listen. Hope you =
+enjoy it
+
+http://www.mixcloud.com/jazze/discovery-project-electric-forest/
+
+Thanks=20
+Jazz-e=20=
+
+From jmidy10632@gmail.com  Mon, 17 Jun 2013 20:45:47 -0400
+Return-Path: <jmidy10632@gmail.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 99118 invoked from network); 18 Jun 2013 00:45:48 -0000
+Received: from mail-ob0-f176.google.com (209.85.214.176)
+  by taz3.hyperreal.org with SMTP; 18 Jun 2013 00:45:48 -0000
+Received: by mail-ob0-f176.google.com with SMTP id v19so3901678obq.35
+        for <pb-cle-raves@hyperreal.org>; Mon, 17 Jun 2013 17:45:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=iABpYvbdayN+Gn0sI/MHLlXmPmtbkd9VYW5CezftnWg=;
+        b=rG3uFoR7WUG1i0uIU5Zr4bfUsVz8DlgR+fdHdgP1WYuGKda6gy8xUox4DsK7fPOm9K
+         dRjNy/T9TClrp+e7w9EOAOoovzOIA5bY6Ema232LkohBzU3Hr8m9jxDS1EpCJGRXb3ki
+         qRWEkJ2iiCpZbnxvJw6ghOpx+iX/i5c4x/+JgvdkPVIRicQFt6pbDAuU0ln47zMXsuJ9
+         C0LEvJNSGhgNXqDyMrksvrZNg4Mv2irqFglaT363b5YFTyeAUtzTG1ANOyOsEUtAuh0f
+         xUu/Osq1+eMXs/OvxqwUitOptXLqHfv577VjtX1GOsCw74nuRovVlUqVysGB5o8Zsuqc
+         +h/w==
+MIME-Version: 1.0
+X-Received: by 10.182.214.39 with SMTP id nx7mr10729924obc.20.1371516348047;
+ Mon, 17 Jun 2013 17:45:48 -0700 (PDT)
+Received: by 10.60.15.42 with HTTP; Mon, 17 Jun 2013 17:45:47 -0700 (PDT)
+In-Reply-To: <D2DF7917-39F7-4FF1-B5CF-09DE5EC16FE3@pacbell.net>
+References: <1371433115.69206.YahooMailNeo@web122904.mail.ne1.yahoo.com>
+	<D2DF7917-39F7-4FF1-B5CF-09DE5EC16FE3@pacbell.net>
+Date: Mon, 17 Jun 2013 20:45:47 -0400
+Message-ID: <CAFU_AFrE2wptmEBwnGCkSOb+nrXdGXr=zD5+=BcTcGQa4Akigg@mail.gmail.com>
+From: "John M." <jmidy10632@gmail.com>
+To: Dj Jazz-e <jazz_e@pacbell.net>
+Cc: pb cle raves <pb-cle-raves@hyperreal.org>
+Content-Type: multipart/alternative; boundary=e89a8ff1c02abaaa0704df630892
+Subject: Re: {pb-cle} BSP: Funky House Mix (Dj Jazz-e)
+
+--e89a8ff1c02abaaa0704df630892
+Content-Type: text/plain; charset=ISO-8859-1
+
+Very Nice! Love it. It's nice to hear a good house mix....warms the soul. :)
+
+
+Peace & <3
+
+
+On Mon, Jun 17, 2013 at 12:04 AM, Dj Jazz-e <jazz_e@pacbell.net> wrote:
+
+> Uploaded a mix and would appreciate if you could take a listen. Hope you
+> enjoy it
+>
+> http://www.mixcloud.com/jazze/discovery-project-electric-forest/
+>
+> Thanks
+> Jazz-e
+
+--e89a8ff1c02abaaa0704df630892
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Very Nice! Love it. It&#39;s nice to hear a good house mix=
+....warms the soul. :)<br><br><br>Peace &amp; &lt;3<br></div><div class=3D"=
+gmail_extra"><br><br><div class=3D"gmail_quote">On Mon, Jun 17, 2013 at 12:=
+04 AM, Dj Jazz-e <span dir=3D"ltr">&lt;<a href=3D"mailto:jazz_e@pacbell.net=
+" target=3D"_blank">jazz_e@pacbell.net</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Uploaded a mix and would appreciate if you c=
+ould take a listen. Hope you enjoy it<br>
+<br>
+<a href=3D"http://www.mixcloud.com/jazze/discovery-project-electric-forest/=
+" target=3D"_blank">http://www.mixcloud.com/jazze/discovery-project-electri=
+c-forest/</a><br>
+<br>
+Thanks<br>
+<span class=3D"HOEnZb"><font color=3D"#888888">Jazz-e </font></span></block=
+quote></div><br></div>
+
+--e89a8ff1c02abaaa0704df630892--
+
+From jazz_e@pacbell.net  Mon, 17 Jun 2013 19:57:18 -0700
+Return-Path: <jazz_e@pacbell.net>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 93838 invoked from network); 18 Jun 2013 02:57:17 -0000
+Received: from nm16.access.bullet.mail.mud.yahoo.com (66.94.237.217)
+  by taz3.hyperreal.org with SMTP; 18 Jun 2013 02:57:17 -0000
+Received: from [66.94.237.201] by nm16.access.bullet.mail.mud.yahoo.com with NNFMP; 18 Jun 2013 02:57:17 -0000
+Received: from [98.139.221.48] by tm12.access.bullet.mail.mud.yahoo.com with NNFMP; 18 Jun 2013 02:57:17 -0000
+Received: from [127.0.0.1] by smtp101.sbc.mail.bf1.yahoo.com with NNFMP; 18 Jun 2013 02:57:17 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=pacbell.net; s=s1024; t=1371524237; bh=2gE756vcb7Ii5D4nOJZQQ5nZbHbbCZGg5b5imhrGFFE=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Subject:Mime-Version:Content-Type:From:In-Reply-To:Date:Cc:Message-Id:References:To:X-Mailer; b=z1U3G9cesr9vIo8oq3Erj9a4PK/37eg5fa+gl/PuRyMxbSV5Huq+1IZXigseYiEA980LMxhHplMHkHCM9BU6Py3Oi9rcf+sX8RKIOJQ9hI2SvTPi9uPg+eXf8hrSjTy9iIxBxgYH5S7cLDenFWGnL3E6fTO2dm6/wQUz9S8LrWQ=
+X-Yahoo-Newman-Id: 132987.7352.bm@smtp101.sbc.mail.bf1.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: _0CUHA8VM1l9bbzyWdThEXARCP2SSZp7eBEI.MYWjA6jB4.
+ YgYnYmz_YdFCV_Z8N1C.9P3NitXbRFHCC0XnmqMkeqo8bIpKFTia1NkTWxpW
+ g7FmpOZDIXgce9qQODFBHVzYQwVAoE4ohf4ZpWpa4Rkux4Q7xxWXyIB6VEst
+ Z_wteKATaPnROCLPV5H8ME0uHDqiBayLe4AtzUWZvMDaFm0yC1RPCBdRShMP
+ XtuA2UTHJ6WEn0ucuYxQx6V8sBBViBQBIxLjLjJVC5MPZkUlQZFa0VXIt_IJ
+ 0GIo9zlG7xvnRCO1EK0WsKOZmiCcM9KDBVKbIA7RalKXnxb_71ZTiHRNFHDF
+ hxyrYYRwmi6umNcGCR9NcEjOiWa1S7GCnKfXfdCOueBCKahGzswG6WKE_mBj
+ sCAdYkklzAcadFP9k_yUcqJ1cFLL0GWl4ZFX.fy9sfswp_X2lGyMZwp744HS
+ ER5eetMk1afD4R1h9B6qq9wz5J35QPEm_HNIFU0.mX54bWsMF9fa5olpjoZf
+ gqNSNFIWWFc8EJ3TfSVX6GDysQcFCFuuShoFMuZH71pSFXn0VL91lV4Rx.7o
+ v3fOo3ZAe9mjJbOUwW6WShVKOntLXbWz21_BhkEs6GjlwrHmt76FffXJAYa0
+ Q0cYfMM9Rxg--
+X-Yahoo-SMTP: e09DYJmswBDeMALTKYaazeCnic5Z9I.kNj6dlO54_w--
+X-Rocket-Received: from [192.168.3.20] (jazz_e@24.143.242.246 with plain)
+        by smtp101.sbc.mail.bf1.yahoo.com with SMTP; 17 Jun 2013 19:57:17 -0700 PDT
+Mime-Version: 1.0 (Apple Message framework v1283)
+Content-Type: multipart/alternative; boundary="Apple-Mail=_A0C641C6-F5D2-47E2-9C52-0025C2A9CF32"
+From: Dj Jazz-e <jazz_e@pacbell.net>
+In-Reply-To: <CAFU_AFrE2wptmEBwnGCkSOb+nrXdGXr=zD5+=BcTcGQa4Akigg@mail.gmail.com>
+Date: Mon, 17 Jun 2013 19:57:18 -0700
+Cc: pb cle raves <pb-cle-raves@hyperreal.org>
+Message-Id: <9DB90718-4AD3-4F0D-AC94-F072FC8579F4@pacbell.net>
+References: <1371433115.69206.YahooMailNeo@web122904.mail.ne1.yahoo.com> <D2DF7917-39F7-4FF1-B5CF-09DE5EC16FE3@pacbell.net> <CAFU_AFrE2wptmEBwnGCkSOb+nrXdGXr=zD5+=BcTcGQa4Akigg@mail.gmail.com>
+To: John M. <jmidy10632@gmail.com>
+X-Mailer: Apple Mail (2.1283)
+Subject: Re: {pb-cle} BSP: Funky House Mix (Dj Jazz-e)
+
+--Apple-Mail=_A0C641C6-F5D2-47E2-9C52-0025C2A9CF32
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=iso-8859-1
+
+Appreciate the feedback, glad you liked it
+
+On Jun 17, 2013, at 5:45 PM, John M. wrote:
+
+> Very Nice! Love it. It's nice to hear a good house mix....warms the =
+soul. :)
+>=20
+>=20
+> Peace & <3
+>=20
+>=20
+> On Mon, Jun 17, 2013 at 12:04 AM, Dj Jazz-e <jazz_e@pacbell.net> =
+wrote:
+> Uploaded a mix and would appreciate if you could take a listen. Hope =
+you enjoy it
+>=20
+> http://www.mixcloud.com/jazze/discovery-project-electric-forest/
+>=20
+> Thanks
+> Jazz-e
+>=20
+
+
+--Apple-Mail=_A0C641C6-F5D2-47E2-9C52-0025C2A9CF32
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=iso-8859-1
+
+<html><head></head><body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; ">Appreciate the feedback, glad you liked it<div><br><div><div>On Jun 17, 2013, at 5:45 PM, John M. wrote:</div><br class="Apple-interchange-newline"><blockquote type="cite"><div dir="ltr">Very Nice! Love it. It's nice to hear a good house mix....warms the soul. :)<br><br><br>Peace &amp; &lt;3<br></div><div class="gmail_extra"><br><br><div class="gmail_quote">On Mon, Jun 17, 2013 at 12:04 AM, Dj Jazz-e <span dir="ltr">&lt;<a href="mailto:jazz_e@pacbell.net" target="_blank">jazz_e@pacbell.net</a>&gt;</span> wrote:<br>
+<blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">Uploaded a mix and would appreciate if you could take a listen. Hope you enjoy it<br>
+<br>
+<a href="http://www.mixcloud.com/jazze/discovery-project-electric-forest/" target="_blank">http://www.mixcloud.com/jazze/discovery-project-electric-forest/</a><br>
+<br>
+Thanks<br>
+<span class="HOEnZb"><font color="#888888">Jazz-e </font></span></blockquote></div><br></div>
+</blockquote></div><br></div></body></html>
+--Apple-Mail=_A0C641C6-F5D2-47E2-9C52-0025C2A9CF32--
+

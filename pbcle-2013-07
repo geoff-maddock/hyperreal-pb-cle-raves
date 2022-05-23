@@ -1,0 +1,191 @@
+From ed.rodgers@gmail.com  Sun, 7 Jul 2013 19:36:51 -0400
+Return-Path: <ed.rodgers@gmail.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 50010 invoked from network); 7 Jul 2013 23:36:55 -0000
+Received: from mail-ve0-f173.google.com (209.85.128.173)
+  by taz3.hyperreal.org with SMTP; 7 Jul 2013 23:36:55 -0000
+Received: by mail-ve0-f173.google.com with SMTP id jw11so3063088veb.32
+        for <pb-cle-raves@hyperreal.org>; Sun, 07 Jul 2013 16:36:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:from:content-type:x-mailer:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=uSf7pwS/JuOiQ60PAkMavaQalXcg+czA6HKBO3QXngg=;
+        b=E7q12DIczPx7BURBMauo+I5O7DVu/ZEeSQe+8Q/DViIJxP1D5LojXWPelQxc00k+mY
+         AgErCyhV+Sq0G9ST5uuazrrxyXZrQXgvsicXHL9+oHnij5/Kn7VHtaRtY9VEqnsE+Tl9
+         uztTti7pOoJjdlUdqmSdughDMBGy/2nfyGUpFrlwUWXOpVQAE49JH1HZh0ewWQsXQVRV
+         w4SGFS6ieobIYBWi00IbuBOr4BKhh9MCSI3NBfiHiTct6TFvdycdk2pJQ60qtPm7aCs6
+         dOZKLxXEulqU586NrtIOU3J7XwHjvgEcvoEgiQkiQ6k4forNokbA4JmojZCyVqNDQJGk
+         NI/g==
+X-Received: by 10.58.118.8 with SMTP id ki8mr12312888veb.84.1373240214208;
+        Sun, 07 Jul 2013 16:36:54 -0700 (PDT)
+Received: from [10.231.116.94] (mobile-198-228-192-061.mycingular.net. [198.228.192.61])
+        by mx.google.com with ESMTPSA id qh6sm13104860vec.0.2013.07.07.16.36.52
+        for <pb-cle-raves@hyperreal.org>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 07 Jul 2013 16:36:53 -0700 (PDT)
+From: Ed Rodgers <ed.rodgers@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+X-Mailer: iPhone Mail (10B350)
+Message-Id: <DDC1BF47-AD74-4301-928A-AFA4D35ADE6D@gmail.com>
+Date: Sun, 7 Jul 2013 19:36:51 -0400
+To: "pb-cle-raves@hyperreal.org" <pb-cle-raves@hyperreal.org>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+Subject: Mullets
+
+Remember when we had an off topic list solely devoted to mullet spotting?
+
+That is all.
+
+From junglalien@gmail.com  Sun, 7 Jul 2013 20:26:36 -0400
+Return-Path: <junglalien@gmail.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 68691 invoked from network); 8 Jul 2013 00:26:37 -0000
+Received: from mail-ob0-f174.google.com (209.85.214.174)
+  by taz3.hyperreal.org with SMTP; 8 Jul 2013 00:26:37 -0000
+Received: by mail-ob0-f174.google.com with SMTP id wd20so4839055obb.19
+        for <pb-cle-raves@hyperreal.org>; Sun, 07 Jul 2013 17:26:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=57hphM/ac2MSYz55+a4NZqP7Q9r29gfFSeEPoE6/FwI=;
+        b=zrjo4aUBZQ+xkfRR9OiB/PLtKTP/pjwr4l/Wq6/DttK2YymQ68ozLP4FfLRKCTtVxP
+         quB/gxgk6fDbH0O5e4a3g0iVaMW+a8yuDaHAJ7ri2ocHkn9ZMCfIIhiLeWS19ZLv0OCQ
+         9IE+CLBdXUnXI6ojsXYHZaQt6as5WB6GQhmfGo6MJvSz3i0NRzrNXEbOHpbjdnE7/djh
+         g7oIqdi1sMd5Rtbl23mBKkOA5HSPdnOLTaFm9Bam9KzPeah89BfM+Rp8dwKEqfasrlLN
+         Bih3wxSOm25qzaL5bZzgXVs4oezf3fBkGd2YDIsStldD4zL0nQ35aKi74JICZNx7qxpd
+         FkNg==
+MIME-Version: 1.0
+X-Received: by 10.60.102.202 with SMTP id fq10mr18647447oeb.42.1373243196989;
+ Sun, 07 Jul 2013 17:26:36 -0700 (PDT)
+Received: by 10.76.105.46 with HTTP; Sun, 7 Jul 2013 17:26:36 -0700 (PDT)
+In-Reply-To: <DDC1BF47-AD74-4301-928A-AFA4D35ADE6D@gmail.com>
+References: <DDC1BF47-AD74-4301-928A-AFA4D35ADE6D@gmail.com>
+Date: Sun, 7 Jul 2013 20:26:36 -0400
+Message-ID: <CADJneGCKOKWuRtHkg2MojMi3HoW9D6s-DLgAjk1G+_XeeTKENQ@mail.gmail.com>
+From: EMC <junglalien@gmail.com>
+To: Ed Rodgers <ed.rodgers@gmail.com>
+Cc: "pb-cle-raves@hyperreal.org" <pb-cle-raves@hyperreal.org>
+Content-Type: multipart/alternative; boundary=089e01182bb2f2686404e0f5187f
+Subject: Re: {pb-cle} Mullets
+
+--089e01182bb2f2686404e0f5187f
+Content-Type: text/plain; charset=ISO-8859-1
+
+http://i43.tinypic.com/11liknc.jpg
+
+
+On Sun, Jul 7, 2013 at 7:36 PM, Ed Rodgers <ed.rodgers@gmail.com> wrote:
+
+> Remember when we had an off topic list solely devoted to mullet spotting?
+>
+> That is all.
+>
+
+--089e01182bb2f2686404e0f5187f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><a href=3D"http://i43.tinypic.com/11liknc.jpg">http://i43.=
+tinypic.com/11liknc.jpg</a><br></div><div class=3D"gmail_extra"><br><br><di=
+v class=3D"gmail_quote">On Sun, Jul 7, 2013 at 7:36 PM, Ed Rodgers <span di=
+r=3D"ltr">&lt;<a href=3D"mailto:ed.rodgers@gmail.com" target=3D"_blank">ed.=
+rodgers@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Remember when we had an off topic list solel=
+y devoted to mullet spotting?<br>
+<br>
+That is all.<br>
+</blockquote></div><br></div>
+
+--089e01182bb2f2686404e0f5187f--
+
+From talldean@gmail.com  Sun, 7 Jul 2013 20:29:44 -0400
+Return-Path: <talldean@gmail.com>
+Delivered-To: mailing list pb-cle-raves@hyperreal.org
+Received: (qmail 70143 invoked from network); 8 Jul 2013 00:30:07 -0000
+Received: from mail-ob0-f169.google.com (209.85.214.169)
+  by taz3.hyperreal.org with SMTP; 8 Jul 2013 00:30:07 -0000
+Received: by mail-ob0-f169.google.com with SMTP id up14so4926324obb.14
+        for <pb-cle-raves@hyperreal.org>; Sun, 07 Jul 2013 17:30:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc:content-type;
+        bh=Gbxv6OhmUhjpo4nYAKomvg2G0Pfs/bBRVQKuFzO2HAc=;
+        b=F8s41POkmdc/+ApC7kGdWjKzxCr9rPbAa6FcFC+apCgQGg38TqeEzLhWb+kNLLV1iw
+         +0dQ7jK4EfiosCRAWA6th5Yf0pWS1vojO0eaBh9SBU4cYv7T9U11c/mmvnc31tlWUV7h
+         jOHLte3PuChDd+xFea4yhhZfl88rLLKNtU3baa1mk7g2XDiUWZkHU8fgQo4U5q04SqQp
+         EBZoiUHDZosqXt7luoQtu4wQOdXz7lov7ES1QqG5QJu7dt1z9VSwjlaRN7q+EqOchKZX
+         Cq8RqWEpf/Je9be7FHD0VCpVmXEYVVstJqd4cT2d4MbxqOzv+NNUjP+BWm9+fzqev+iW
+         J/2g==
+X-Received: by 10.182.34.166 with SMTP id a6mr11619037obj.102.1373243406021;
+ Sun, 07 Jul 2013 17:30:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.76.158.197 with HTTP; Sun, 7 Jul 2013 17:29:44 -0700 (PDT)
+In-Reply-To: <CADJneGCKOKWuRtHkg2MojMi3HoW9D6s-DLgAjk1G+_XeeTKENQ@mail.gmail.com>
+References: <DDC1BF47-AD74-4301-928A-AFA4D35ADE6D@gmail.com> <CADJneGCKOKWuRtHkg2MojMi3HoW9D6s-DLgAjk1G+_XeeTKENQ@mail.gmail.com>
+From: Dean <talldean@gmail.com>
+Date: Sun, 7 Jul 2013 20:29:44 -0400
+Message-ID: <CABbSDoJmG9m7C7qO0oo_OO-vQO+vzFBLvXZ4pnXp5b=j+6+uig@mail.gmail.com>
+To: EMC <junglalien@gmail.com>
+Cc: Ed Rodgers <ed.rodgers@gmail.com>, 
+	"pb-cle-raves@hyperreal.org" <pb-cle-raves@hyperreal.org>
+Content-Type: multipart/alternative; boundary=001a11c208d46809d004e0f52523
+Subject: Re: {pb-cle} Mullets
+
+--001a11c208d46809d004e0f52523
+Content-Type: text/plain; charset=ISO-8859-1
+
+http://tinyurl.com/mulletfish
+
+
+On Sun, Jul 7, 2013 at 8:26 PM, EMC <junglalien@gmail.com> wrote:
+
+> http://i43.tinypic.com/11liknc.jpg
+>
+>
+> On Sun, Jul 7, 2013 at 7:36 PM, Ed Rodgers <ed.rodgers@gmail.com> wrote:
+>
+>> Remember when we had an off topic list solely devoted to mullet spotting?
+>>
+>> That is all.
+>>
+>
+>
+
+--001a11c208d46809d004e0f52523
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><font color=3D"#000000" face=3D"Verdana, Geneva, Arial, He=
+lvetica, sans-serif"><a href=3D"http://tinyurl.com/mulletfish" class=3D"cre=
+med">http://tinyurl.com/mulletfish</a></font><br></div><div class=3D"gmail_=
+extra"><br>
+
+<br><div class=3D"gmail_quote">On Sun, Jul 7, 2013 at 8:26 PM, EMC <span di=
+r=3D"ltr">&lt;<a href=3D"mailto:junglalien@gmail.com" target=3D"_blank">jun=
+glalien@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote=
+" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+<div dir=3D"ltr"><a href=3D"http://i43.tinypic.com/11liknc.jpg" target=3D"_=
+blank">http://i43.tinypic.com/11liknc.jpg</a><br></div><div class=3D"HOEnZb=
+"><div class=3D"h5"><div class=3D"gmail_extra"><br><br><div class=3D"gmail_=
+quote">On Sun, Jul 7, 2013 at 7:36 PM, Ed Rodgers <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:ed.rodgers@gmail.com" target=3D"_blank">ed.rodgers@gmail.com=
+</a>&gt;</span> wrote:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Remember when we had an off topic list solel=
+y devoted to mullet spotting?<br>
+<br>
+That is all.<br>
+</blockquote></div><br></div>
+</div></div></blockquote></div><br></div>
+
+--001a11c208d46809d004e0f52523--
+
